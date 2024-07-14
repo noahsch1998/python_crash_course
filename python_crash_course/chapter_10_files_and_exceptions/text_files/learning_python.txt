@@ -1,0 +1,4 @@
+In Python you can create classes to represent real life items.
+In Python you can accept user input into the system.
+In Python you can read and manipulate data from text files.
+In Python you can create lists and dictionaries of any length you need.
